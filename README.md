@@ -12,6 +12,22 @@
   </h2>
 </p>
 
+## 📋 Projects List
+
+| Project Name | Task | Key Technology |
+|--------------|------|----------------|
+| Persian Car Plate Detection | Object Detection | YOLOv8 |
+| Persian Car Plates Digits Recognition | Character Detection | YOLOv8 |
+| Drone Detection | Object Detection | YOLOv8 |
+| Drone Detection and Tracking | Object Detection & Tracking | YOLOv8 |
+| Military Aircraft Detection | Object Detection | YOLOv8 |
+| Intelligent Vehicle Tracking System | Object Tracking | YOLOv8 + DeepSORT + Kalman Filter |
+| Metro Gate People Counter | People Counting | YOLOv8 |
+| Smart Escalator Monitor | People Counting / Monitoring | YOLOv8 |
+| Real-Time Road Scene Segmentation | Image Segmentation | YOLOv11 |
+| Real-Time Weld Defect Inspector | Defect Detection | YOLOv8 |
+| Real-Time Pallet Detector | Object Detection | YOLOv8 |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omidsakaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omidsakaki" height="30" width="40" /></a>
