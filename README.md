@@ -1,3 +1,7 @@
+![GitHub Repo Stars](https://img.shields.io/github/stars/omid-sakaki-ghazvini/Ultralytics-YOLO-Projects?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/omid-sakaki-ghazvini/Ultralytics-YOLO-Projects)
+![Projects Count](https://img.shields.io/badge/Projects-12-blue)
+
 <h1 align="left">Ultralytics-YOLO-Projects</h1>
 <h4 align="left">YOLO-based object detection projects: Persian plates, drone & aircraft detection, vehicle tracking, people counting, and road segmentation. Practical CV solutions with Ultralytics YOLO.</h4>
 <hr />
