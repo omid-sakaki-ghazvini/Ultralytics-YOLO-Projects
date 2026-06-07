@@ -4,6 +4,10 @@
 
 <h1 align="left">Ultralytics-YOLO-Projects</h1>
 <h4 align="left">YOLO-based object detection projects: Persian plates, drone & aircraft detection, vehicle tracking, people counting, and road segmentation. Practical CV solutions with Ultralytics YOLO.</h4>
+
+---
+🔗 **See all my AI projects:** [github.com/omid-sakaki-ghazvini/Projects](https://github.com/omid-sakaki-ghazvini/Projects)
+
 <hr />
 
 ## 📋 Projects List
